@@ -1,0 +1,13 @@
+body {
+    font-family: 'Lato', sans-serif;
+}
+
+.site-content {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.site-body {
+    flex-grow: 1;
+}
