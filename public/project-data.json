@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "I Hate Images",
-        "summary": "Optimise, resize and base64 encode images.",
+        "summary": "Optimise, resize and base64 encode. I needed some tools to handle my images so decided to put them all in one place.",
         "image": {
             "path": "/images/fish.svg",
             "alt": "I hate images logo"
