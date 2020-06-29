@@ -1,9 +1,9 @@
 import React from 'react';
-import { BrowserRouter, Route, Switch, NavLink } from "react-router-dom";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import AboutPage from "./pages/AboutPage";
 import ProjectsPage from "./pages/ProjectsPage";
-import Header from "./components/header";
+import Header from "./components/Header";
 
 class Routes extends React.Component{
     render(){

@@ -44,11 +44,13 @@
 //@import "~bootstrap/scss/spinners";
 //@import "~bootstrap/scss/print";
 
-@import 'global/colours';
-@import 'global/base';
+@import "global/colours";
+@import "global/base";
 
 // ----- Components ----- //
-@import 'components/header';
+@import "components/header";
+@import "components/card";
 
 // ----- Pages ----- //
 @import "pages/about-page";
+@import "pages/projects-page";
