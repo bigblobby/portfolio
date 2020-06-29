@@ -22,7 +22,7 @@ class Card extends React.Component {
                         <h2 className="title">{this.props.title}</h2>
                         <p className="summary">{this.props.summary}</p>
                         <div className="button-container">
-                            <a href={this.props.link} target="_blank">Visit</a>
+                            <a href={this.props.link} target="_blank" rel="noopener noreferrer">Visit</a>
                         </div>
                     </div>
                 </div>
